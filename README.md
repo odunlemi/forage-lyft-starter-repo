@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Fprage Lyft Repo
+This is my implementation and modification of the Forage Lyft's backend program.
